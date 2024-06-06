@@ -10,12 +10,11 @@ body {
 }
 
 header {
-    background-color: #ecd000;
-    color: black;
+    background-color: black;
+    color: white;
     padding: 1rem;
+    text-align: center;
 }
-
-
 
 main {
     padding: 2rem;
@@ -25,14 +24,12 @@ section {
     margin-bottom: 2rem;
 }
 
-
 .element {
     align-items: center;
     background-color: white;
     border-radius: 5px;
     margin: 10px;
     display: flex;
-    font-weight: bold;
     justify-content: center;    
     height: 100px;
     width: 300px;
